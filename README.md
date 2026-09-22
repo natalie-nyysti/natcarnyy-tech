@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm Natalie! 
+## Hi there, I'm Natalie! 🌸
+
 
 I am currently a student at Long Island University, based in Brooklyn, NY. 
 
