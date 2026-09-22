@@ -5,7 +5,7 @@ I am currently a student at Long Island University, based in Brooklyn, NY.
 
 I am a Freshman studying Digital Engineering.
 
-I love learning new things and am always thinking about different projects that can make my life easier. \n
+I love learning new things and am always thinking about different projects that can make my life easier. 
 
 I am currently focusing on learning more about Python, HTML, and LLMs.
 
