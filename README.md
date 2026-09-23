@@ -1,13 +1,21 @@
-## Hi there, I'm Natalie! 🌸
+### Hi there, I'm Natalie 🌸
 
+🦈 Digital Engineering student at Long Island University, based in Brooklyn, NY
+💻 Freshman, focused on AI Engineering
+🌱 Currently deepening my skills in Python, HTML, and LLMs
+🚀 Always building something — usually to fix a problem in my own life
 
-🦈 I am currently a student at Long Island University, based in Brooklyn, NY. 
+---
 
-💻 I am a Freshman studying Digital Engineering.
+### What I'm working on
+- 🥗 A food-tracking app that uses AI to recognize meals from photos and estimate macros
+- 📲 An iPhone app (Swift/Xcode) that uses NFC tags to track how often I do certain tasks
 
-💕 I love learning new things and always thinking of projects that can make my life easier. 
+### Tech I'm learning
+`Python` `HTML` `Swift` `LLMs` `AI Engineering`
 
-🪴 I am currently focusing on learning more about Python, HTML, and LLMs.
+### Connect with me
+🔗 [LinkedIn](https://www.linkedin.com/in/natalie-nyysti-008859323/)
 
-🔗 You can reach me on LinkedIn (https://www.linkedin.com/in/natalie-nyysti-008859323/)
-
+---
+💖 Thanks for stopping by!
