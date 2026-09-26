@@ -1,8 +1,11 @@
 ### Hi there, I'm Natalie 🌸
 
 🦈 Digital Engineering student at Long Island University, based in Brooklyn, NY
+<br>
 💻 Freshman, focused on AI Engineering
+<br>
 🌱 Currently deepening my skills in Python, HTML, and LLMs
+<br>
 🚀 Always building something — usually to fix a problem in my own life
 
 ---
